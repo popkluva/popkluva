@@ -1,6 +1,17 @@
+<body>
 <h1 align="center">👋 Hi, I'm popkluva</h1>
-<h3 align="center">A student wishing to do computer science in the future</h3>
-<h3 align="center">Currently learning Python and Lua
+<p align="center">Sixth Form Student</p>
+
+<li>
+  <b>Currently Studying:</b> Mathematics, Further Mathematics, Physics, Computer Science
+</li>
+<li>
+  <b>Favourite Subject:</b> Mathematics
+</li>
+<li>
+  <b>Languages:</b> Python, Lua
+</li>
+</body>
 
 <!--
 **PatayKaFTW/PatayKaFTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
