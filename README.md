@@ -1,20 +1,19 @@
-<body>
-<h1 align="center">👋 Hi, I'm popkluva</h1>
-<p align="center">Sixth Form Student</p>
+<div align="center">
+  <img src="https://count.getloli.com/@popkluva-01-03-2026?name=popkluva-01-03-2026&theme=booru-helltaker&darkmode=0" alt="count">
+</div>
 
-<li>
-  <b>Currently Studying:</b> Mathematics, Further Mathematics, Physics, Computer Science
-</li>
-<li>
-  <b>Favourite Subject:</b> Mathematics
-</li>
-<li>
-  <b>Languages:</b> Python, Lua
-</li>
-</body>
+<h1 align="center">👋 Hi, I'm popkluva</h1>
+<p align="center"><strong>Sixth Form Student</strong></p>
+
+<ul>
+  <li><b>Currently Studying:</b> Mathematics, Further Mathematics, Physics, Computer Science</li>
+  <li><b>Favourite Subject:</b> Mathematics</li>
+  <li><b>Languages:</b> Python, Lua</li>
+  <li><b>Currently learning:</b> HTML, CSS, JS</li>
+</ul>
 
 <!--
-**PatayKaFTW/PatayKaFTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**popkluva/popkluva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
